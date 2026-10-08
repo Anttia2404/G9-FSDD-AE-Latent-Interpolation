@@ -1,0 +1,7 @@
+fold,test,val,train
+1,george,jackson,"lucas,nicolas,theo,yweweler"
+2,jackson,lucas,"george,nicolas,theo,yweweler"
+3,lucas,nicolas,"george,jackson,theo,yweweler"
+4,nicolas,theo,"george,jackson,lucas,yweweler"
+5,theo,yweweler,"george,jackson,lucas,nicolas"
+6,yweweler,george,"jackson,lucas,nicolas,theo"
